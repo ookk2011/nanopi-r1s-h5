@@ -1,5 +1,5 @@
 # Actions-ImmortalWrt-R1S-H5
-
+## permissions: write-all
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/F-T-Otaku/Actions-ImmortalWrt-R1S-H5/blob/main/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/F-T-Otaku/Actions-ImmortalWrt-R1S-H5.svg?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/F-T-Otaku/Actions-ImmortalWrt-R1S-H5.svg?style=flat-square&label=Forks&logo=github)
